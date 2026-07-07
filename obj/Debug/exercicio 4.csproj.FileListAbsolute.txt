@@ -1,0 +1,24 @@
+D:\11GPSi\PSI\exercicio 4\exercicio 4\bin\Debug\exercicio 4.exe.config
+D:\11GPSi\PSI\exercicio 4\exercicio 4\bin\Debug\exercicio 4.exe
+D:\11GPSi\PSI\exercicio 4\exercicio 4\bin\Debug\exercicio 4.pdb
+D:\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio 4.csproj.AssemblyReference.cache
+D:\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio_4.fmrEX4.resources
+D:\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio_4.Form2.resources
+D:\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio_4.Properties.Resources.resources
+D:\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio 4.csproj.GenerateResource.cache
+D:\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio 4.csproj.CoreCompileInputs.cache
+D:\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio 4.exe
+D:\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio 4.pdb
+D:\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio_4.fmrConsulta.resources
+E:\tudo\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio 4.csproj.AssemblyReference.cache
+E:\tudo\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio_4.fmrEX4.resources
+E:\tudo\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio_4.Form2.resources
+E:\tudo\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio_4.fmrConsulta.resources
+E:\tudo\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio_4.Properties.Resources.resources
+E:\tudo\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio 4.csproj.GenerateResource.cache
+E:\tudo\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio 4.exe
+E:\tudo\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio 4.pdb
+E:\tudo\11GPSi\PSI\exercicio 4\exercicio 4\bin\Debug\exercicio 4.exe.config
+E:\tudo\11GPSi\PSI\exercicio 4\exercicio 4\bin\Debug\exercicio 4.exe
+E:\tudo\11GPSi\PSI\exercicio 4\exercicio 4\bin\Debug\exercicio 4.pdb
+E:\tudo\11GPSi\PSI\exercicio 4\exercicio 4\obj\Debug\exercicio 4.csproj.CoreCompileInputs.cache
